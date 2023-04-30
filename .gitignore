@@ -1,0 +1,9 @@
+# python virtual environments
+venv*
+
+# generate graph output
+lib
+nodes.html
+
+# OSX
+.DS_Store
